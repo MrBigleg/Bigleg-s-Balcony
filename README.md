@@ -53,3 +53,7 @@ LUMI's personality and knowledge base are defined in `services/geminiService.ts`
 
 ---
 *Created by the Lumina Engineering Team.*
+
+---
+
+Lumina Festival is built by Craig Burton and the team at [CTB Digital Marketing](https://ctbmarketing.com), the consultancy behind [Rank-in-Maps](https://www.rank-in-maps.com/) (Google Business Profile audits and local visibility intelligence). 🙏📍🛺
